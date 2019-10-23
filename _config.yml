@@ -6,11 +6,11 @@
 name: Rivaldy
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Android Developer from Makassar
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/im-o/im-o.github.io/master/images/mypp.jpg
 #
 # Flags below are optional
 #
@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: rivaldy@stimednp.ac.id
+  facebook: imrivaldy
   flickr:
   github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  instagram: rivaldy_o
+  linkedin: rivaldy-o
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  twitter: rivaldy_o
+  stackoverflow: users/11265228/im-o # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: channel/UCn4sAQ-aJefeSLxC2J2hnEg # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
